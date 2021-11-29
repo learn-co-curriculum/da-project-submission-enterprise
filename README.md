@@ -1,4 +1,4 @@
-# Project Submission & Review (Online)
+# Project Submission & Review (Flex)
 
 ## Introduction
 
