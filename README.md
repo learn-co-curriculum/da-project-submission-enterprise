@@ -1,4 +1,4 @@
-# Project Submission & Review (Flex)
+# Project Submission & Review - Data Analytics 
 
 ## Introduction
 
@@ -12,43 +12,30 @@ You will be able to:
 * Submit your project deliverables in Canvas
 * Prepare for your project review
 
-## Schedule Your Review ASAP
-
-**Reach out to an instructor immediately via Slack to let them know you've started your project and schedule your project review.** If you're not sure who to schedule with, please ask in your cohort channel in Slack.
-
 ## Create Your Project Deliverables
 
-Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment. Keep in mind that the audience for these deliverables is not only your teacher, but also potential employers. Employers will look at your project deliverables to evaluate multiple skills, including coding, modeling, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
-
-### GitHub Repository
-
-Your GitHub repository is the public-facing version of your project that your instructors and potential employers will see - make it as accessible as you can. At a minimum, it should contain all your project files and a README.md file that summarizes your project and helps visitors navigate the repository.
+Complete the deliverables for your project, guided by the rubric at the bottom of the main project assignment in Canvas. Keep in mind that **the audience for these deliverables is not only your teacher, but also potential employers**. Employers will look at your project deliverables to evaluate multiple skills, including coding, analysis, communication, and domain knowledge. You will want to polish these as much as you can, both during the course and afterwards.
 
 ### Jupyter Notebook
 
 Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
 
-### Non-Technical Presentation
+### Non-Technical Presentation (Slide Deck & Video )
 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then record yourself delivering the presentation.
 
+The non-technical presentation will consist of the slides themselves and a video recording of you giving the presentation. 
+Be mindful about your annunciation and the pace of your speaking. It is often good practice to speak a bit slower than you are accustomed to when giving a presentation so that others can hear you clearly. 
+
 ## Submit Your Project
 
-To submit your project in Canvas, you will create and upload PDF versions of three project deliverables, then upload a recording of your video presentation. You will also submit the URL to your GitHub repository in a separate assignment.
+To submit your project in Canvas, you will create and upload PDF versions of two project deliverables (final notebook and presentation) and upload a recording of your video presentation to canvas. < WRITE INSTRUCTIONS FOR HOW TO DO THIS. >
 
 ### Presentation Slides PDF Creation
 
 1. Export your presentation as a PDF from the program in which you created it.
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
-3. Place a copy of the PDF in your GitHub repository.
-
-### GitHub Repository PDF Creation
-
-1. Navigate to the root directory of your project repository on GitHub, using your browser (we recommend Google Chrome).
-2. Save the webpage as a PDF using the browser's Print functionality ([Google Chrome Save to PDF instructions](https://www.wikihow.com/Save-a-Web-Page-as-a-PDF-in-Google-Chrome))
-3. Give it a short descriptive file name (e.g. `github.pdf`).
-
-![Repository PDF Creation](https://github.com/learn-co-curriculum/da-project-submission-enterprise/blob/master/repo_pdf.gif)
+3. >> upload to canvas: < WRITE INSTRUCTIONS FOR HOW TO DO THIS. >
 
 ### Jupyter Notebook PDF Creation
 
@@ -61,7 +48,7 @@ If you have difficulty creating a PDF version of your notebook, you can use [thi
 
 ### PDF Submission in Canvas
 
-You will need to submit all three PDF files as a single submission:
+You will need to submit the two PDF files and video recording as a single submission:
 
 1. Click "Submit Assignment" at the top of the "Phase X Project" assignment in the "Milestones" topic.
 2. In the "File Upload" box, click "Choose File" button to upload a single file.
@@ -83,20 +70,10 @@ After you've submitted the PDF files for the project assignment, you will upload
 
 ![Video Recording Submission](https://github.com/learn-co-curriculum/da-project-submission-enterprise/blob/master/video_recording_submission.gif)
 
-### URL Submission in Canvas
-
-There is an additional Canvas assignment where you will just enter the URL for your project's GitHub repository. This is located in the "Milestones" topic in this course as "Phase X Project - GitHub Repository URL."
-
-## Prepare For Project Review
-
-Project reviews are focused on preparing you for technical interviews. Treat project reviews as if they were technical interviews, in both attitude and technical presentation *(sometimes technical interviews will feel arbitrary or unfair - if you want to get the job, commenting on that is seldom a good choice)*.
-
-The project review is comprised of a 45 minute 1:1 session with one of the instructors. During your project review, be prepared to:
-
 ### 1. Deliver your PDF presentation to a non-technical stakeholder.
-In this phase of the review (~10 mins) your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation  should not exceed 5 minutes, giving the "stakeholder" 5 minutes to ask questions.
+When delivering your presentation, imagine your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should be no less than 5 minutes and no more than 8 minutes. 
 
-In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data science and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings and be ready to answer a couple of non-technical questions from the audience. The questions might relate to technical topics (sampling bias, confidence, etc) but will be asked in a non-technical way and need to be answered in a way that does not assume a background in statistics or machine learning. You can assume a smart, business stakeholder, with a non-quantitative college degree.
+In the first half of the presentation (2-3 mins), you should summarize your methodology in a way that will be comprehensible to someone with no background in data analytics and that will increase their confidence in you and your findings. In the second half (the remaining 2-3 mins) you should summarize your findings.
 
 ### 2. Go through the Jupyter Notebook, answering questions about how you made certain decisions. Be ready to explain things like:
     * "How did you pick the question(s) that you did?"
@@ -104,26 +81,16 @@ In the first half of the presentation (2-3 mins), you should summarize your meth
     * "How did you decide on the data cleaning options you performed?"
     * "Why did you choose a given method or library?"
     * "Why did you select those visualizations and what did you learn from each of them?"
-    * "Why did you pick those features as predictors?"
     * "How would you interpret the results?"
-    * "How confident are you in the predictive quality of the results?"
-    * "What are some of the things that could cause the results to be wrong?"
-
-Think of the first phase of the review (~30 mins) as a technical boss reviewing your work and asking questions about it before green-lighting you to present to the business team. You should practice using the appropriate technical vocabulary to explain yourself. Don't be surprised if the instructor jumps around or sometimes cuts you off - there is a lot of ground to cover, so that may happen.
 
 If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
 * Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
 * Submit an improved version
 * Meet again for another Project Review
 
-What won't happen:
-* You won't be yelled at, belittled, or scolded
-* You won't be put on the spot without support
-* There's nothing you can do to instantly fail or blow it
-
 ## Grading
 
-Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must properly submit your project and score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submission sometime after your review.
+Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must properly submit your project and score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submissions during the assessment week period.
 
 ## Conclusion
 
