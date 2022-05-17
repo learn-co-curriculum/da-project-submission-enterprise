@@ -29,13 +29,13 @@ Be mindful about your annunciation and the pace of your speaking. It is often go
 
 ## Submit Your Project
 
-To submit your project in Canvas, you will create and upload PDF versions of two project deliverables (final notebook and presentation) and upload a recording of your video presentation to canvas. < WRITE INSTRUCTIONS FOR HOW TO DO THIS. >
+To submit your project in Canvas, you will create and upload PDF versions of two project deliverables (final notebook and presentation) and upload a recording of your video presentation to canvas.
 
 ### Presentation Slides PDF Creation
 
 1. Export your presentation as a PDF from the program in which you created it.
 2. Give it a short descriptive file name (e.g. `presentation.pdf`).
-3. >> upload to canvas: < WRITE INSTRUCTIONS FOR HOW TO DO THIS. >
+3. upload to canvas. 
 
 ### Jupyter Notebook PDF Creation
 
