@@ -10,7 +10,6 @@ You will be able to:
 
 * Create project deliverables that meet Flatiron School requirements
 * Submit your project deliverables in Canvas
-* Prepare for your project review
 
 ## Create Your Project Deliverables
 
@@ -20,7 +19,7 @@ Complete the deliverables for your project, guided by the rubric at the bottom o
 
 Your Jupyter Notebook is the primary source of information about your analysis. At a minimum, it should contain or import all of the code used in your project and walk the reader through your project from start to finish. You may choose to use multiple Jupyter Notebooks in your project, but you should have one that provides a full project overview as a point of entry for visitors.
 
-### Non-Technical Presentation (Slide Deck & Video )
+### Non-Technical Presentation (Slide Deck & Video)
 
 Your non-technical presentation is your opportunity to communicate clearly and concisely about your project and it's real-world relevance. The target audience should be people with limited technical knowledge who may be interested in leveraging your project. We recommend using Google Slides, PowerPoint or Keynote to create your presentation slides. You will then record yourself delivering the presentation.
 
@@ -49,9 +48,9 @@ If you have difficulty creating a PDF version of your notebook, you can use [thi
 ### PDF Submission in Canvas
 
 You will need to submit the two PDF files as a single submission. 
-Once the project has been started by clicking "Start Assignment" in the "Phase X Project" in Canvas:
+Once the submission process has been started by clicking "Start Assignment" in the "Phase X Project Subimission" in Canvas:
 
-1. Click "Submit Assignment" at the top of the "Phase X Project" assignment in the canvas module.
+1. Click "Submit Assignment" at the top of the "Phase X Project Submission" page in the canvas module.
 2. In the "File Upload" box, click "Choose File" button to upload a single file.
 3. Click the "Add Another File" link to upload an additional file.
 4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
@@ -64,7 +63,7 @@ Once the project has been started by clicking "Start Assignment" in the "Phase X
 After you've submitted the PDF files for the project assignment, you will upload a recording of your presentation as a media comment on your submission:
 
 1. Record your live presentation to a video file on your computer. We recommend using Zoom to record your live presentation to a local video file ([instructions here](https://support.zoom.us/hc/en-us/articles/201362473-Local-recording)). Video files must be under 500 MB and formatted as 3GP, ASF, AVI, FLV, M4V, MOV, MP4, MPEG, QT, or WMV.
-2. Click "Submission Details" on the top right of the "Phase X Project" submission page.
+2. Click "Submission Details" on the top right of the "Phase X Project Submission" page.
 3. Click "Media Comment" beneath the "Add a Comment" box on the right of the page.
 4. Click "Upload Media" and "Select Video File" to upload your file.
 5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
@@ -84,14 +83,9 @@ In the first half of the presentation (2-3 mins), you should summarize your meth
     * "Why did you select those visualizations and what did you learn from each of them?"
     * "How would you interpret the results?"
 
-If any requirements are missing or if significant gaps in understanding are uncovered, be prepared to do one or all of the following:
-* Perform additional data cleanup, visualization, feature selection, modeling and/or model validation
-* Submit an improved version
-* Meet again for another Project Review
-
 ## Grading
 
-Your teacher will use the rubric at the bottom of the main project assignment to grade your project. In order to pass, you must properly submit your project and score "Accomplished" or "Exemplary" on nearly all rubric elements. You will receive a score of P (Pass) or NP (No Pass) - you must pass in order to move to the next phase with your cohort. Your teacher will grade your submissions during the assessment week period.
+Your teachers will use the rubric at the bottom of the project submission page to grade your project. Your passing of the project is based on achieving 70% of the total possible points for the specific phase project. Your teachers will grade your submissions during the assessment week period.
 
 ## Conclusion
 
