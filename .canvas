@@ -1,18 +1,6 @@
 ---
 :lessons:
-- :id: 34562
-  :course_id: 153
-  :canvas_url: https://learning.flatironschool.com/courses/153/pages/project-submission-and-review-online
-  :type: page
-- :id: 38823
-  :course_id: 343
-  :canvas_url: https://learning.flatironschool.com/courses/343/pages/project-submission-and-review-online
-  :type: page
-- :id: 40613
+- :id: 25436
   :course_id: 346
-  :canvas_url: https://learning.flatironschool.com/courses/346/pages/project-submission-and-review-online
-  :type: page
-- :id: 41532
-  :course_id: 347
-  :canvas_url: https://learning.flatironschool.com/courses/347/pages/project-submission-and-review-online
+  :canvas_url: https://my.learn.co/courses/346/pages/project-submission-and-review-data-analytics
   :type: page
