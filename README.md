@@ -56,7 +56,7 @@ Once the submission process has been started by clicking "Start Assignment" in t
 4. Repeat Step 3 to upload one more file. After this is done, all three files should be uploaded.
 5. Hit the blue "Submit Assignment" button.
 
-![Project PDF Submission](https://github.com/learn-co-curriculum/da-project-submission-enterprise/blob/master/project_3pdf_submission.gif)
+![Project PDF Submission](https://github.com/learn-co-curriculum/da-project-submission-enterprise/master/project_3pdf_submission.gif)
 
 ### Presentation Recording and Submission
 
@@ -68,7 +68,7 @@ After you've submitted the PDF files for the project assignment, you will upload
 4. Click "Upload Media" and "Select Video File" to upload your file.
 5. The thumbnail for your video will appear as a blue rectangle while Zoom processes your file - return to this page later to confirm that your recording uploaded successfully.
 
-![Video Recording Submission](https://github.com/learn-co-curriculum/da-project-submission-enterprise/blob/master/video_recording_submission.gif)
+![Video Recording Submission](https://github.com/learn-co-curriculum/da-project-submission-enterprise/master/video_recording_submission.gif)
 
 ### 1. Deliver your PDF presentation to a non-technical stakeholder.
 When delivering your presentation, imagine your instructor will play the part of a non-technical stakeholder that you are presenting your findings to. The presentation should be no less than 5 minutes and no more than 8 minutes. 
